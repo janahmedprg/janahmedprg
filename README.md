@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janahmedprg
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning C++, Data Structures
+- 🌱 I’m currently learning Algorithms and Intro to Software Engineering
 - 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
 
 <!---
