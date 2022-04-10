@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @janahmedprg
+- 👋 Hi, I’m Jan Ahmed
 - 👀 I’m interested in Mathematics and Computer Science
 - 🌱 I’m currently learning Algorithms, Assembly language and Intro to Software Engineering
 - 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
