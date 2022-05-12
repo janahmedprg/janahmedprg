@@ -1,15 +1,15 @@
 ## Welcome to my GitHub profile
 
+- 👋 Hi, I’m Jan Ahmed
+- 👀 I’m interested in Mathematics and Computer Science
+- 🌱 I’m currently learning Algorithms, Assembly language and Intro to Software Engineering
+- 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
+
 <!-- [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=onedark)](https://github.com/janahmedprg/github-readme-stats) -->
 [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=darcula)](https://github.com/janahmedprg/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janahmedprg&exclude_repo=https://github.com/johnma02/Population-Analysis)](https://github.com/janahmedprg/github-readme-stats&theme=onedark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janahmedprg&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/janahmedprg/github-readme-stats)
-
-- 👋 Hi, I’m Jan Ahmed
-- 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning Algorithms, Assembly language and Intro to Software Engineering
-- 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
 
 <!---
 janahmedprg/janahmedprg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
