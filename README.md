@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Jan Ahmed
 - 👀 I’m interested in Mathematics and Computer Science
 - 🌱 I’m currently studying Algorithms and Graphs
+- 🏆 Here is my CodeForces account: https://codeforces.com/profile/janahmed
 - 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
 
 <!-- [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=onedark)](https://github.com/janahmedprg/github-readme-stats) -->
