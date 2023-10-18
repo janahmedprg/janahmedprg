@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying Algorithms and Graphs
 - 🏆 Here is my CodeForces account: https://codeforces.com/profile/janahmed
 - 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
-- Jan->Cox->Hutchings->Morgan->Furedi->Erdos
+- My Erdos number is: 5 (Jan->Cox->Hutchings->Morgan->Furedi->Erdos)
 
 <!-- [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=onedark)](https://github.com/janahmedprg/github-readme-stats) -->
 [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=darcula)](https://github.com/janahmedprg/github-readme-stats)
