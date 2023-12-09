@@ -7,9 +7,6 @@
 - 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
 - My Erdos number is: 5 (Jan->Cox->Hutchings->Morgan->Füredi->Erdős)
 
-<!-- [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=onedark)](https://github.com/janahmedprg/github-readme-stats) -->
-[![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=janahmedprg&show_icons=true&theme=darcula)](https://github.com/janahmedprg/github-readme-stats)
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janahmedprg&exclude_repo=https://github.com/johnma02/Population-Analysis)](https://github.com/janahmedprg/github-readme-stats&theme=onedark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janahmedprg&exclude_repo=Population-Analysis&theme=darcula)](https://github.com/janahmedprg/github-readme-stats)
 
