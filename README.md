@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Jan Ahmed
 - 👀 I’m interested in Mathematics and Computer Science
 - 🌱 I’m currently interested in Markov Chains and Probability
-- 💻 Visit my personal website: https://janahmedprg.github.io/Jan-Ahmed
+- 💻 Visit my personal website: https://janahmedprg.github.io
 - 🏆 Here is my CodeForces account: https://codeforces.com/profile/janahmed
 - 📫 You can contact me on my email: jan.ahmed.prg@gmail.com
 - 🔢 My Erdos number is: 5 (J. Ahmed->C. Cox->M. Hutchings->F. Morgan->Z. Füredi->P. Erdős)
